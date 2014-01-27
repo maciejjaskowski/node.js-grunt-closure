@@ -8,7 +8,7 @@ var grunt_test = require('../lib/grunt-test.js');
 
   Test methods:
     test.expect(numAssertions)
-    test.done()
+    test.done() 
   Test assertions:
     test.ok(value, [message])
     test.equal(actual, expected, [message])
